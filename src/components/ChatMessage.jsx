@@ -1,5 +1,6 @@
 import user from '../assets/user.png';
 import robot from '../assets/robot.png';
+import './ChatMessage.css'
 
 function ChatLogo({message,sender}){
     // const {message,sender} = props;

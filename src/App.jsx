@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import './App.css'
 import ChatInput from './components/ChatInput.jsx';
 import ChatMessages from './components/chatMessages.jsx';
+import './App.css'
 
 function App() {
   //Lifting the State Up into App component
