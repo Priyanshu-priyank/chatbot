@@ -1,7 +1,7 @@
 import user from '../assets/user.png';
 import robot from '../assets/robot.png';
 
-function ChatMessage({message,sender}){
+function ChatLogo({message,sender}){
     // const {message,sender} = props;
 
     return(
@@ -15,4 +15,4 @@ function ChatMessage({message,sender}){
     )
 }
 
-export default ChatMessage;
+export default ChatLogo;
